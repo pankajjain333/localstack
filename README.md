@@ -15,7 +15,6 @@ Before you can run the tests, make sure you have the following prerequisites ins
 To execute the tests in this project, follow these steps:
 
 1. Clone this repository to your local machine:  
-   git clone https://github.com/your-username/localstack.git  
 2. Run the test cases  
      mvn test
 
